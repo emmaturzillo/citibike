@@ -3,7 +3,7 @@
 [![Live Report](https://img.shields.io/badge/Quarto-Interactive_Report-blue?style=for-the-badge&logo=quarto)](https://github.com/emmaturzillo/citibike/)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-**[View the Live Interactive Report Here](https://github.com/emmaturzillo/citibike/)**
+**[View the Live Interactive Report Here](https://github.com/emmaturzillo/citibike/blob/main/docs/citibike.html)**
 
 ---
 
@@ -58,5 +58,5 @@ This chart illustrates the relationship between the percent population of a bloc
 
 ## Contact
 - Author: Emma Turzillo
-- Initial Publication Date: 2026/08/16
+- Initial Publication Date: 2026/08/26
 - LinkedIn: [linkedin.com/in/emmaturzillo/](https://www.linkedin.com/in/emmaturzillo/)
