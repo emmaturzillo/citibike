@@ -33,8 +33,8 @@ This chart illustrates the relationship between the percent population of a bloc
 ---
 
 ## Data Pipeline & Methods
-
-* **Data Cleaning & Preprocessing:** Downloaded data from [Citi Bike's website](https://citibikenyc.com/system-data). Limited scope to June 2026 data in NYC. Cleaned station ID strings and imputed missing station IDs using station name where possible. Dropped records where station ID could not be determined, as well as records with missing start and/or end times.
+- **Dataset Source & Access:** Analyzed Citi Bike data from June 2026 in NYC. The complete raw CSVs are hosted on [Citi Bike's website](https://citibikenyc.com/system-data). Place the unzipped raw files into `data/citibike/2026/2026_06` to run the full script locally.
+- **Data Cleaning & Preprocessing:** Cleaned station ID strings and imputed missing station IDs using station name where possible. Dropped records where station ID could not be determined, as well as records with missing start and/or end times.
 * **Exploratory Data Analysis:** Evaluated distribution of Citi Bike frequency, time cost (trip duration), and financial cost at the block group level. Assessed relationship between these variables and block groups's 1) median household income, and 2) % of population that is white. Used ranked regression in all cases.
 * **Modeling / Reporting:** Rendered full analytical report via Quarto to combine code execution, interactivity, and narrative text.
 
