@@ -13,10 +13,10 @@ This analysis explores Citi Bike data from June 2026 in NYC to understand how in
 
 ---
 
-## Key Insights & Business Impact
+## Key Insights & Data-Driven Recommendation
 
-* **Headline Insight 1:** As median household income in a block group increases, ride frequency per capita increases moderately (r = 0.51). Median household income explains 26.43% of the variability in Citi Bike frequency per capita between block groups.
-* **Headline Insight 2:** As median household income in a block group decreases, mean Citi Bike trip cost increases slightly (r = -0.27). Median household income explains 7.46% of the variability in Citi Bike trip cost.
+* **Key Insight 1:** As median household income in a block group increases, ride frequency per capita increases moderately (r = 0.51). Median household income explains 26.43% of the variability in Citi Bike frequency per capita between block groups.
+* **Key Insight 2:** As median household income in a block group decreases, mean Citi Bike trip cost increases slightly (r = -0.27). Median household income explains 7.46% of the variability in Citi Bike trip cost.
 * **Data-Driven Recommendation:** Policymakers interested in advancing spatial equity should support Transportation Alternatives's proposed $3 cap on Citi Bike rides. This policy would increase access to jobs and services and reduce household costs for all New Yorkers, but would disproportionately support those who need it most.
 
 ---
