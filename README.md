@@ -47,12 +47,18 @@ This chart illustrates the relationship between the percent population of a bloc
 ├── docs/                                   <- GitHub Pages site files
 │   └── index.html                          <- Live Quarto HTML report
 │   └── assets/                             <- Static images for README
-│       └── MeanCitiBikeTripCostbyMHI.png   <- Sample chart #1
+│       └── citibike_cover.png              <- HTML/notebook cover image
+│       └── TA_endcover.png                 <- HTML/notebook end image
+│       └── MeanCitiBikeTripCostbyMHI.png   <- README sample chart #1
+│       └── RideFrequencyby%White.png       <- README sample chart #2
 ├── notebooks/                              <- Full exploratory notebooks
 │   └── project_eda.ipynb                   <- Complete Python analysis script
 ├── data/                                   <- Raw datasets
-│   └── citibike/
-│       └── 2026_06/                        <- Citi Bike data downloaded from Citi Bike's website
+│   └── citibike/                           <- Citi Bike data 
+│       └── 2026/ 
+│           └── 2026_06/      
+│   └── borough_boundaries/                 <- Borough boundary shapefiles from NYC Open Data
+│   └── NYC_Block_Groups_2016_2020/         <- Shapefiles for NYC block groups with US Census data from 2016-2020  
 └── requirements.txt                        <- Dependency list for local setup
 ```
 

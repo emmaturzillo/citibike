@@ -1,0 +1,10 @@
+folium==0.20.0
+geopandas==1.1.2
+matplotlib==3.11.0
+numpy==2.4.0
+pandas==2.3.3
+plotly==5.24.1
+requests==2.32.5
+scipy==1.17.1
+seaborn==0.13.2
+statsmodels==0.14.6
