@@ -1,6 +1,6 @@
 # Spatial Equity Implications of Citi Bike's Pricing Model
 
-[![Live Report](https://img.shields.io/badge/Quarto-Interactive_Report-blue?style=for-the-badge&logo=quarto)](https://github.com/emmaturzillo/citibike/)
+[![Live Report](https://img.shields.io/badge/Quarto-Interactive_Report-blue?style=for-the-badge&logo=quarto)](https://emmaturzillo.github.io/citibike)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 **[View the Live Interactive Report Here](https://emmaturzillo.github.io/citibike)**
