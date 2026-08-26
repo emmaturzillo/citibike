@@ -70,3 +70,6 @@ This chart illustrates the relationship between the percent population of a bloc
 - Author: Emma Turzillo
 - Initial Publication Date: 2026/08/26
 - LinkedIn: [linkedin.com/in/emmaturzillo/](https://www.linkedin.com/in/emmaturzillo/)
+
+## Credits
+- [Michelle Deme, Staff Designer](https://www.linkedin.com/in/michelle-elizabeth-deme/) at Transportation Alternatives, designed the end cover illustration for the $3 Citi Bike campaign
