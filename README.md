@@ -56,6 +56,10 @@ This chart illustrates the relationship between the percent population of a bloc
 └── requirements.txt                        <- Dependency list for local setup
 ```
 
+## Requirements
+- **Python:** 3.10+
+- **Core Libraries:** `pandas`, `numpy`, `plotly`, `geopandas`, `matplotlib`, `seaborn`, `folium`, `statsmodels`
+
 ## Contact
 - Author: Emma Turzillo
 - Initial Publication Date: 2026/08/26
