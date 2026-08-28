@@ -1,0 +1,20 @@
+project:
+  type: default
+  output-dir: ../docs
+  
+execute:
+  # Give cells more time to finish executing before Quarto captures output
+  timeout: 300  # 5 minutes per cell (increase if needed for your geospatial joins)
+  cache: false  # Don't cache intermediate results - ensures fresh execution
+
+# Global format defaults for all outputs
+format:
+  html:
+    # Embed all resources (CSS, JS) directly in HTML file
+    embed-resources: true
+    # Render Plotly charts properly
+    plotly-connected: false
+    # Include TOC
+    toc: true
+    # Code folding
+    code-fold: show
